@@ -1,1 +1,1 @@
-# student-admissions_NN
+# Predicting Student Admissions with Neural Networks
